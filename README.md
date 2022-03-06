@@ -7,5 +7,5 @@
 * クリックしたらその場所に点を打ちドロネー三角形分割を再構築する
 * Fを押すと巨大な三角形とそれに付随する辺を削除する（メッシュ完成）
 * Cを押すと初期化される
-![demo-image](https://user-images.githubusercontent.com/74280232/156933347-aa160adb-6b7a-4abd-9edd-fb2db4bc357e.gif)
 
+<img src="https://user-images.githubusercontent.com/74280232/156933648-d6c140c6-c309-4af8-9655-822a0a61ceb8.gif" width="300">
