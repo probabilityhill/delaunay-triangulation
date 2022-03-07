@@ -8,4 +8,4 @@
 * Fを押すと巨大な三角形とそれに付随する辺を削除する（メッシュ完成）
 * Cを押すと初期化される
 
-<img src="https://user-images.githubusercontent.com/74280232/156968020-9ee497d7-6c15-4dd0-b503-c19734767661.gif" width="300">
+![demo](https://user-images.githubusercontent.com/74280232/156968274-448f7562-5f01-43ad-843d-2d3e56390623.gif)
